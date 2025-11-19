@@ -1,1 +1,2 @@
-# quadcopter-with-gazebo
+# quadcopter-with-mojuco
+
