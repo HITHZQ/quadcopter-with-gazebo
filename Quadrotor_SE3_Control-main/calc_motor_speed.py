@@ -1,5 +1,4 @@
 # 电机转速计算测试
-# 20250220 Test Failed
 import numpy as np
 from scipy.optimize import fsolve
 
