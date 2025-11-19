@@ -1,4 +1,3 @@
-# 20250220 Wakkk
 # Quadrotor SE3 Control Demo
 import mujoco 
 import mujoco.viewer as viewer 
