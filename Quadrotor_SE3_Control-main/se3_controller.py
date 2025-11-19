@@ -1,5 +1,4 @@
 # SE3 控制器
-# 20250220 Wakkk
 import numpy as np
 import geometry
 
